@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ajudar a rastrear os hábitos.
 
-ls
+-[Visite nosso projeto online](https://mmsg1984.github.io/nlw-setup)
 
 ## 🔖 Layout
 
